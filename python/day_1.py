@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """2023 AoC Day 2"""
-import re
 from pathlib import Path
 
 import polars as pl
